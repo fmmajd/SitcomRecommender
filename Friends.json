@@ -1,0 +1,205 @@
+{
+  "title": "Friends",
+  "seasons": [
+    {
+      "index": 1,
+      "num_of_episodes": 24,
+      "episodes": [
+        {
+          "index": 1,
+          "title": "The Pilot"
+        },
+        {
+          "index": 2,
+          "title": "The One with the Sonogram at the End"
+        },
+        {
+          "index": 3,
+          "title": "The One with the Thumb"
+        },
+        {
+          "index": 4,
+          "title": "The One with George Stephanopoulos"
+        },
+        {
+          "index": 5,
+          "title": "The One with the East German Laundry Detergent"
+        },
+        {
+          "index": 6,
+          "title": "The One with the Butt"
+        },
+        {
+          "index": 7,
+          "title": "The One with the Blackout"
+        },
+        {
+          "index": 8,
+          "title": "The One Where Nana Dies Twice"
+        },
+        {
+          "index": 9,
+          "title": "The One Where Underdog Gets Away"
+        },
+        {
+          "index": 10,
+          "title": "The One with the Monkey"
+        },
+        {
+          "index": 11,
+          "title": "The One with Mrs. Bing"
+        },
+        {
+          "index": 12,
+          "title": "The One with the Dozen Lasagnas"
+        },
+        {
+          "index": 13,
+          "title": "The One with the Boobies"
+        },
+        {
+          "index": 14,
+          "title": "The One with the Candy Hearts"
+        },
+        {
+          "index": 15,
+          "title": "The One with the Stoned Guy"
+        },
+        {
+          "index": 16,
+          "title": "The One with Two Parts: Part 1"
+        },
+        {
+          "index": 17,
+          "title": "The One with Two Parts: Part 2"
+        },
+        {
+          "index": 18,
+          "title": "The One with All the Poker"
+        },
+        {
+          "index": 19,
+          "title": "The One Where the Monkey Gets Away"
+        },
+        {
+          "index": 20,
+          "title": "The One with the Evil Orthodontist"
+        },
+        {
+          "index": 21,
+          "title": "The One with the Fake Monica"
+        },
+        {
+          "index": 22,
+          "title": "The One with the Ick Factor"
+        },
+        {
+          "index": 23,
+          "title": "The One with the Birth"
+        },
+        {
+          "index": 24,
+          "title": "The One Where Rachel Finds Out"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "num_of_episodes": 23,
+      "episodes": [
+        {
+          "index": 1,
+          "title": "The One with Ross's New Girlfriend"
+        },
+        {
+          "index": 2,
+          "title": "The One with the Breast Milk"
+        },
+        {
+          "index": 3,
+          "title": "The One Where Heckles Dies"
+        },
+        {
+          "index": 4,
+          "title": "The One with Phoebe's Husband"
+        },
+        {
+          "index": 5,
+          "title": "The One with Five Steaks and an Eggplant"
+        },
+        {
+          "index": 6,
+          "title": "The One with the Baby on the Bus"
+        },
+        {
+          "index": 7,
+          "title": "The One Where Ross Finds Out"
+        },
+        {
+          "index": 8,
+          "title": "The One with the List"
+        },
+        {
+          "index": 9,
+          "title": "The One with Phoebe's Dad"
+        },
+        {
+          "index": 10,
+          "title": "The One with Russ"
+        },
+        {
+          "index": 11,
+          "title": "The One with the Lesbian Wedding"
+        },
+        {
+          "index": 12,
+          "title": "The One After the Superbowl"
+        },//episode 12 and 13 are the same
+        {
+          "index": 14,
+          "title": "The One with the Prom Video"
+        },
+        {
+          "index": 15,
+          "title": "The One Where Ross and Rachel...You Know"
+        },
+        {
+          "index": 16,
+          "title": "The One Where Joey Moves Out"
+        },
+        {
+          "index": 17,
+          "title": "The One Where Eddie Moves In"
+        },
+        {
+          "index": 18,
+          "title": "The One Where Dr. Ramoray Dies"
+        },
+        {
+          "index": 19,
+          "title": "The One Where Eddie Won't Go"
+        },
+        {
+          "index": 20,
+          "title": "The One Where Old Yeller Dies"
+        },
+        {
+          "index": 21,
+          "title": "The One with the Bullies"
+        },
+        {
+          "index": 22,
+          "title": "The One with the Two Parties"
+        },
+        {
+          "index": 23,
+          "title": "The One with the Chicken Pox"
+        },
+        {
+          "index": 24,
+          "title": "The One with Barry and Mindy's Wedding"
+        }
+      ]
+    }
+  ]
+}
