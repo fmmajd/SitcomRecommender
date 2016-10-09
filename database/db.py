@@ -45,6 +45,8 @@ def makeEpisodeSeen(episode):
 
 def makeEpisodeUnseen(episode):
     session.query(Episode).filter(Episode.id == episode.id).update({"is_seen": False})
+    session.commit()
 
 def resetEpisodes():
     session.query(Episode).update({"is_seen": False})
+    session.commit()
