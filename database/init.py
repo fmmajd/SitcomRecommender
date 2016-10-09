@@ -37,19 +37,22 @@ def buildEpisodesList(data):
             ep = Episode(season_index, episode['index'], episode['title'], tv_show)
             episodes.append(ep)
 
-    return [tv_show, episodes]
+    return episodes
 
-#
-# get episodes
-#
-with open('shows/Friends.json') as data_file:
-    data = json.load(data_file)
 
-[show, episodes] = buildEpisodesList(data)
+def initShow(name):
+    name = 'shows/' + name + '.json'
+    #
+    # get episodes
+    #
+    with open(name) as data_file:
+        data = json.load(data_file)
 
-# should not explicitly add the show
-# it's added to db automatically when first adding an episode
-# addShow(show)
+    episodes = buildEpisodesList(data)
 
-for episode in episodes:
-    addEpisode(episode)
+    # should not explicitly add the show
+    # it's added to db automatically when first adding an episode
+    # addShow(show)
+
+    for episode in episodes:
+        addEpisode(episode)

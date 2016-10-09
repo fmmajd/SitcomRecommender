@@ -3,7 +3,6 @@
   "seasons": [
     {
       "index": 1,
-      "num_of_episodes": 24,
       "episodes": [
         {
           "index": 1,
@@ -105,7 +104,6 @@
     },
     {
       "index": 2,
-      "num_of_episodes": 23,
       "episodes": [
         {
           "index": 1,
@@ -200,6 +198,772 @@
           "title": "The One with Barry and Mindy's Wedding"
         }
       ]
+    },
+    {
+      "index": 3,
+      "episodes": [
+        {
+          "index": 1,
+          "title": "The One with the Princess Leia Fantasy"
+        },
+        {
+          "index": 2,
+          "title": "The One Where No One's Ready"
+        },
+        {
+          "index": 3,
+          "title": "The One with the Jam"
+        },
+        {
+          "index": 4,
+          "title": "The One with the Metaphorical Tunnel"
+        },
+        {
+          "index": 5,
+          "title": "The One with Frank Jr."
+        },
+        {
+          "index": 6,
+          "title": "The One with the Flashback"
+        },
+        {
+          "index": 7,
+          "title": "The One with the Race Car Bed"
+        },
+        {
+          "index": 8,
+          "title": "The One with the Giant Poking Device"
+        },
+        {
+          "index": 9,
+          "title": "The One with the Football"
+        },
+        {
+          "index": 10,
+          "title": "The One Where Rachel Quits"
+        },
+        {
+          "index": 11,
+          "title": "The One Where Chandler Can't Remember Which Sister"
+        },
+        {
+          "index": 12,
+          "title": "The One with All the Jealousy"
+        },
+        {
+          "index": 13,
+          "title": "The One Where Monica and Richard are Just Friends"
+        },
+        {
+          "index": 14,
+          "title": "The One with Phoebe's Ex-Partner"
+        },
+        {
+          "index": 15,
+          "title": "The One Where Ross and Rachel Take a Break"
+        },
+        {
+          "index": 16,
+          "title": "The One with the Morning After"
+        },
+        {
+          "index": 17,
+          "title": "The One Without the Ski Trip"
+        },
+        {
+          "index": 18,
+          "title": "The One with the Hypnosis Tape"
+        },
+        {
+          "index": 19,
+          "title": "The One with the Tiny T-Shirt"
+        },
+        {
+          "index": 20,
+          "title": "The One with the Dollhouse"
+        },
+        {
+          "index": 21,
+          "title": "The One with a Chick and a Duck"
+        },
+        {
+          "index": 22,
+          "title": "The One with the Screamer"
+        },
+        {
+          "index": 23,
+          "title": "The One with Ross's Thing"
+        },
+        {
+          "index": 24,
+          "title": "The One with the Ultimate Fighting Champion"
+        },
+        {
+          "index": 25,
+          "title": "The One at the Beach"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "episodes": [
+        {
+          "index": 1,
+          "title": "The One with the Jellyfish"
+        },
+        {
+          "index": 2,
+          "title": "The One with the Cat"
+        },
+        {
+          "index": 3,
+          "title": "The One with the Cuffs"
+        },
+        {
+          "index": 4,
+          "title": "The One with the Ballroom Dancing"
+        },
+        {
+          "index": 5,
+          "title": "The One with Joey's New Girlfriend"
+        },
+        {
+          "index": 6,
+          "title": "The One with the Dirty Girl"
+        },
+        {
+          "index": 7,
+          "title": "The One Where Chandler Crosses the Line"
+        },
+        {
+          "index": 8,
+          "title": "The One with Chandler in a Box"
+        },
+        {
+          "index": 9,
+          "title": "The One Where They're Going to Party!"
+        },
+        {
+          "index": 10,
+          "title": "The One with the Girl from Poughkeepsie"
+        },
+        {
+          "index": 11,
+          "title": "The One with Phoebe's Uterus"
+        },
+        {
+          "index": 12,
+          "title": "The One with the Embryos"
+        },
+        {
+          "index": 13,
+          "title": "The One with Rachel's Crush"
+        },
+        {
+          "index": 14,
+          "title": "The One with Joey's Dirty Day"
+        },
+        {
+          "index": 15,
+          "title": "The One with All the Rugby"
+        },
+        {
+          "index": 16,
+          "title": "The One with the Fake Party"
+        },
+        {
+          "index": 17,
+          "title": "The One with the Free Porn"
+        },
+        {
+          "index": 18,
+          "title": "The One with Rachel's New Dress"
+        },
+        {
+          "index": 19,
+          "title": "The One with All the Haste"
+        },
+        {
+          "index": 20,
+          "title": "The One with All the Wedding Dresses"
+        },
+        {
+          "index": 21,
+          "title": "The One with the Invitation"
+        },
+        {
+          "index": 22,
+          "title": "The One with the Worst Best Man Ever"
+        },
+        {
+          "index": 23,
+          "title": "The One with Ross's Wedding"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "episodes": [
+        {
+          "index": 1,
+          "title": "The One After Ross Says Rachel"
+        },
+        {
+          "index": 2,
+          "title": "The One with All the Kissing"
+        },
+        {
+          "index": 3,
+          "title": "The One with the Triplets",
+          "alternate_title": "The One Hundredth"
+        },
+        {
+          "index": 4,
+          "title": "The One Where Phoebe Hates PBS"
+        },
+        {
+          "index": 5,
+          "title": "The One with the Kips"
+        },
+        {
+          "index": 6,
+          "title": "The One with the Yeti"
+        },
+        {
+          "index": 7,
+          "title": "The One Where Ross Moves In"
+        },
+        {
+          "index": 8,
+          "title": "The One with All the Thanksgivings"
+        },
+        {
+          "index": 9,
+          "title": "The One with Ross's Sandwich"
+        },
+        {
+          "index": 10,
+          "title": "The One with the Inappropriate Sister"
+        },
+        {
+          "index": 11,
+          "title": "The One with All the Resolutions"
+        },
+        {
+          "index": 12,
+          "title": "The One with Chandler's Work Laugh"
+        },
+        {
+          "index": 13,
+          "title": "The One with Joey's Bag"
+        },
+        {
+          "index": 14,
+          "title": "The One Where Everybody Finds Out"
+        },
+        {
+          "index": 15,
+          "title": "The One with the Girl Who Hits Joey"
+        },
+        {
+          "index": 16,
+          "title": "The One with the Cop"
+        },
+        {
+          "index": 17,
+          "title": "The One with Rachel's Inadvertent Kiss"
+        },
+        {
+          "index": 18,
+          "title": "The One Where Rachel Smokes"
+        },
+        {
+          "index": 19,
+          "title": "The One Where Ross Can't Flirt"
+        },
+        {
+          "index": 20,
+          "title": "The One with the Ride-Along"
+        },
+        {
+          "index": 21,
+          "title": "The One with the Ball"
+        },
+        {
+          "index": 22,
+          "title": "The One with Joey's Big Break"
+        },
+        {
+          "index": 23,
+          "title": "The One in Vegas"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "episodes": [
+        {
+          "index": 1,
+          "title": "The One After Vegas"
+        },
+        {
+          "index": 2,
+          "title": "The One Where Ross Hugs Rachel"
+        },
+        {
+          "index": 3,
+          "title": "The One with Ross's Denial"
+        },
+        {
+          "index": 4,
+          "title": "The One Where Joey Loses His Insurance"
+        },
+        {
+          "index": 5,
+          "title": "The One with Joey's Porsche"
+        },
+        {
+          "index": 6,
+          "title": "The One on the Last Night"
+        },
+        {
+          "index": 7,
+          "title": "The One Where Phoebe Runs"
+        },
+        {
+          "index": 8,
+          "title": "The One with Ross's Teeth"
+        },
+        {
+          "index": 9,
+          "title": "The One Where Ross Got High"
+        },
+        {
+          "index": 10,
+          "title": "The One with the Routine",
+          "alternate_title": "The One with the Rockin' New Year"
+        },
+        {
+          "index": 11,
+          "title": "The One with the Apothecary Table"
+        },
+        {
+          "index": 12,
+          "title": "The One with the Joke"
+        },
+        {
+          "index": 13,
+          "title": "The One with Rachel's Sister"
+        },
+        {
+          "index": 14,
+          "title": "The One Where Chandler Can't Cry"
+        },
+        {
+          "index": 15,
+          "title": "The One That Could Have Been"
+        },
+        {
+          "index": 17,
+          "title": "The One with Unagi",
+          "alternate_title": "The One with the Mix Tape"
+        },
+        {
+          "index": 18,
+          "title": "The One Where Ross Dates a Student"
+        },
+        {
+          "index": 19,
+          "title": "The One with Joey's Fridge"
+        },
+        {
+          "index": 20,
+          "title": "The One with Mac and C.H.E.E.S.E."
+        },
+        {
+          "index": 21,
+          "title": "The One Where Ross Meets Elizabeth's Dad"
+        },
+        {
+          "index": 22,
+          "title": "The One Where Paul's the Man"
+        },
+        {
+          "index": 23,
+          "title": "The One with the Ring"
+        },
+        {
+          "index": 24,
+          "title": "The One with the Proposal"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "episodes": [
+        {
+          "index": 1,
+          "title": "The One with Monica's Thunder"
+        },
+        {
+          "index": 2,
+          "title": "The One with Rachel's Book"
+        },
+        {
+          "index": 3,
+          "title": 	"The One with Phoebe's Cookies"
+        },
+        {
+          "index": 4,
+          "title": "The One with Rachel's Assistant"
+        },
+        {
+          "index": 5,
+          "title": "The One with the Engagement Picture"
+        },
+        {
+          "index": 6,
+          "title": "The One with the Nap Partners"
+        },
+        {
+          "index": 7,
+          "title": "The One with Ross's Library Book"
+        },
+        {
+          "index": 8,
+          "title": "The One Where Chandler Doesn't Like Dogs"
+        },
+        {
+          "index": 9,
+          "title": "The One with All the Candy"
+        },
+        {
+          "index": 10,
+          "title": "The One with the Holiday Armadillo"
+        },
+        {
+          "index": 11,
+          "title": "The One with All the Cheesecakes"
+        },
+        {
+          "index": 12,
+          "title": "The One Where They're Up All Night"
+        },
+        {
+          "index": 13,
+          "title": "The One Where Rosita Dies"
+        },
+        {
+          "index": 14,
+          "title": "The One Where They All Turn Thirty"
+        },
+        {
+          "index": 15,
+          "title": "The One with Joey's New Brain"
+        },
+        {
+          "index": 16,
+          "title": "The One with the Truth About London"
+        },
+        {
+          "index": 17,
+          "title": "The One with the Cheap Wedding Dress"
+        },
+        {
+          "index": 18,
+          "title": "The One with Joey's Award"
+        },
+        {
+          "index": 19,
+          "title": "The One with Ross and Monica's Cousin"
+        },
+        {
+          "index": 20,
+          "title": "The One with Rachel's Big Kiss"
+        },
+        {
+          "index": 21,
+          "title": "The One with the Vows"
+        },
+        {
+          "index": 22,
+          "title": "The One with Chandler's Dad"
+        },
+        {
+          "index": 23,
+          "title": "The One with Monica and Chandler's Wedding"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "episodes": [
+        {
+          "index": 1,
+          "title": "The One After 'I Do'"
+        },
+        {
+          "index": 2,
+          "title": "The One with the Red Sweater"
+        },
+        {
+          "index": 3,
+          "title": "The One Where Rachel Tells..."
+        },
+        {
+          "index": 4,
+          "title": "The One with the Videotape"
+        },
+        {
+          "index": 5,
+          "title": "The One with Rachel's Date"
+        },
+        {
+          "index": 6,
+          "title": "The One with the Halloween Party"
+        },
+        {
+          "index": 7,
+          "title": "The One with the Stain"
+        },
+        {
+          "index": 8,
+          "title": "The One with the Stripper"
+        },
+        {
+          "index": 9,
+          "title": "The One with the Rumor"
+        },
+        {
+          "index": 10,
+          "title": "The One with Monica's Boots"
+        },
+        {
+          "index": 11,
+          "title": "The One with Ross's Step Forward",
+          "alternate_title": "The One with The Creepy Holiday Card"
+        },
+        {
+          "index": 12,
+          "title": "The One Where Joey Dates Rachel"
+        },
+        {
+          "index": 13,
+          "title": "The One Where Chandler Takes a Bath"
+        },
+        {
+          "index": 14,
+          "title": "The One with the Secret Closet"
+        },
+        {
+          "index": 15,
+          "title": "The One with the Birthing Video"
+        },
+        {
+          "index": 16,
+          "title": "The One Where Joey Tells Rachel"
+        },
+        {
+          "index": 17,
+          "title": "The One with the Tea Leaves"
+        },
+        {
+          "index": 18,
+          "title": "The One in Massapequa",
+          "alternate_title": "The One with the Zesty Guy"
+        },
+        {
+          "index": 19,
+          "title": "The One with Joey's Interview"
+        },
+        {
+          "index": 20,
+          "title": "The One with the Baby Shower"
+        },
+        {
+          "index": 21,
+          "title": "The One with the Cooking Class"
+        },
+        {
+          "index": 22,
+          "title": "The One Where Rachel is Late"
+        },
+        {
+          "index": 23,
+          "title": "The One Where Rachel Has a Baby"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "episodes": [
+        {
+          "index": 1,
+          "title": "The One Where No One Proposes"
+        },
+        {
+          "index": 2,
+          "title": "The One Where Emma Cries"
+        },
+        {
+          "index": 3,
+          "title": "The One with the Pediatrician"
+        },
+        {
+          "index": 4,
+          "title": "The One with the Sharks"
+        },
+        {
+          "index": 5,
+          "title": "The One with Phoebe's Birthday Dinner"
+        },
+        {
+          "index": 6,
+          "title": "The One with the Male Nanny"
+        },
+        {
+          "index": 7,
+          "title": "The One with Ross's Inappropriate Song"
+        },
+        {
+          "index": 8,
+          "title": "The One with Rachel's Other Sister"
+        },
+        {
+          "index": 9,
+          "title": "The One with Rachel's Phone Number"
+        },
+        {
+          "index": 10,
+          "title": "The One with Christmas in Tulsa"
+        },
+        {
+          "index": 11,
+          "title": 	"The One Where Rachel Goes Back to Work"
+        },
+        {
+          "index": 12,
+          "title": "The One with Phoebe's Rats"
+        },
+        {
+          "index": 13,
+          "title": "The One Where Monica Sings"
+        },
+        {
+          "index": 14,
+          "title": "The One with the Blind Dates"
+        },
+        {
+          "index": 15,
+          "title": "The One with the Mugging"
+        },
+        {
+          "index": 16,
+          "title": "The One with the Boob Job"
+        },
+        {
+          "index": 17,
+          "title": "The One with the Memorial Service"
+        },
+        {
+          "index": 18,
+          "title": "The One with the Lottery"
+        },
+        {
+          "index": 19,
+          "title": "The One with Rachel's Dream"
+        },
+        {
+          "index": 20,
+          "title": "The One with the Soap Opera Party"
+        },
+        {
+          "index": 21,
+          "title": "The One with the Fertility Test"
+        },
+        {
+          "index": 22,
+          "title": "The One with the Donor"
+        },
+        {
+          "index": 23,
+          "title": "The One in Barbados"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "episodes": [
+        {
+          "index": 1,
+          "title": "The One After Joey and Rachel Kiss"
+        },
+        {
+          "index": 2,
+          "title": "The One Where Ross is Fine"
+        },
+        {
+          "index": 3,
+          "title": "The One with Ross's Tan"
+        },
+        {
+          "index": 4,
+          "title": "The One with the Cake"
+        },
+        {
+          "index": 5,
+          "title": "The One Where Rachel's Sister Babysits"
+        },
+        {
+          "index": 6,
+          "title": "The One with Ross's Grant"
+        },
+        {
+          "index": 7,
+          "title": "The One with the Home Study"
+        },
+        {
+          "index": 8,
+          "title": "The One with the Late Thanksgiving"
+        },
+        {
+          "index": 9,
+          "title": "The One with the Birth Mother"
+        },
+        {
+          "index": 10,
+          "title": "The One Where Chandler Gets Caught"
+        },
+        {
+          "index": 11,
+          "title": "The One Where the Stripper Cries"
+        },
+        {
+          "index": 12,
+          "title": "The One with Phoebe's Wedding"
+        },
+        {
+          "index": 13,
+          "title": "The One Where Joey Speaks French"
+        },
+        {
+          "index": 14,
+          "title": "The One with Princess Consuela"
+        },
+        {
+          "index": 15,
+          "title": "The One Where Estelle Dies"
+        },
+        {
+          "index": 16,
+          "title": "The One with Rachel's Going Away Party"
+        },
+        {
+          "index": 17,
+          "title": "The Last One"
+        }
+      ]
     }
+
   ]
 }
