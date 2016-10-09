@@ -1,5 +1,4 @@
 # TV Show Recommender
----
 we have all been there. wanna watch a tv show? YEEEEEAH. but which episode? 
 
 you choose an episode, and when starting to watch, you realize you have watched it recently. OUCH
