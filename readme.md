@@ -23,4 +23,4 @@ these steps should be done once:
 ##how to use
 every time you need a suggestion, cd to the directory containg the script, and run:
 
-```python3 main.oy```
+```python3 main.py```
