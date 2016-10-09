@@ -1,32 +1,41 @@
-import json
+
+
+#this import SHOULD NOT be removed
+import database.db
+
 import random
 
-from pprint import pprint
+from database.db import unseenEpisodes, makeEpisodeSeen, resetEpisodes
 
-from models import Episode
 
-with open('Friends.json') as data_file:
-    data = json.load(data_file)
 
-episodes = []
+def checkForReset(episodes):
+    total = len(episodes)
+    if(total == 0):
+        resetEpisodes()
 
-for season in data['seasons']:
-    season_index = season['index']
-    for episode in season['episodes']:
-        ep = Episode(season_index, episode['index'], episode['title'])
-        episodes.append(ep)
 
-total = len(episodes)
+episodes = unseenEpisodes()
+
+# episodes = [episode[0] for episode in episodes]
+
+checkForReset(episodes)
+
+# for episode in episodes:
+#     print(episode.is_seen)
 
 done = False
 
 while(not done):
-    rand = random.randrange(0, total)
+    rand = random.randrange(0, len(episodes))
     ep = episodes[rand]
-    out = "The Lucy Episode IS: season" + str(ep.season) + " episode" + str(ep.index) + ": " + ep.title + "." + '\n' + "Do you want a new suggestion?(y/n)"
+    out = "season" + str(ep.season) + " episode" + str(ep.index) + ": " + ep.title + "." + '\n' + "Have you seen it?(y/n)"
     print(out)
     answer = input()
     if(answer == 'y'):
+        episodes.remove(ep)
+        makeEpisodeSeen(ep)
+        checkForReset(episodes)
         done = False
     elif(answer == 'n'):
         done = True

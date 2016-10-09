@@ -32,3 +32,19 @@ def addEpisode(episode):
     new_ep = Episode(episode.season, episode.index, episode.title,episode.show)
     session.add(new_ep)
     session.commit()
+
+def allEpisodes():
+    return session.query(Episode).all()
+
+def unseenEpisodes():
+    return session.query(Episode).filter(Episode.is_seen == False).all()
+
+def makeEpisodeSeen(episode):
+    session.query(Episode).filter(Episode.id == episode.id).update({"is_seen": True})
+    session.commit()
+
+def makeEpisodeUnseen(episode):
+    session.query(Episode).filter(Episode.id == episode.id).update({"is_seen": False})
+
+def resetEpisodes():
+    session.query(Episode).update({"is_seen": False})
