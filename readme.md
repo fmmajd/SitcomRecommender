@@ -3,7 +3,7 @@ we have all been there. wanna watch a tv show? YEEEEEAH. but which episode?
 
 you choose an episode, and when starting to watch, you realize you have watched it recently. OUCH
 
-so I wrote this command line tool to help us decide which episode to watch next. it keeps track of episodes you have watched, and every time suggests a new episode. when you have watched all, it resets the data and starts over.
+so I wrote this command line tool to help us decide which episode to watch next. it keeps track of episodes you have watched, and every time suggests a new one. when you have watched all, it resets the data and starts over.
 
 ##requirements
 to use this tool, you need python3 and sqlalchemy library.
