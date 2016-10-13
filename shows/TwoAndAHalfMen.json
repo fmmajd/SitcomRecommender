@@ -1,0 +1,19 @@
+{
+  "title": "Two and a Half Men",
+  "seasons": [
+    {
+      "index": 1,
+      "episodes": [
+        {
+          "index": 1,
+          "title": "Most Chicks Won't Eat Veal",
+          "alternate_title": "Pilot"
+        },
+        {
+          "index": 1,
+          "title": "Big Flappy Bastards"
+        }
+      ]
+    }
+  ]
+}
