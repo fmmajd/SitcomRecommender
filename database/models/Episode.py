@@ -22,3 +22,6 @@ class Episode(Base):
         self.title = title
         self.is_seen = False
         self.show = show
+
+    def __str__(self):
+        return self.show.title + "-season" + str(self.season) + " episode" + str(self.index) + ": " + self.title

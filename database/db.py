@@ -33,11 +33,11 @@ def addEpisode(episode):
     session.add(new_ep)
     session.commit()
 
-def allEpisodes():
-    return session.query(Episode).all()
+def allEpisodes(show):
+    return session.query(Episode).filter({Episode.show_id == show.id}).all()
 
-def unseenEpisodes():
-    return session.query(Episode).filter(Episode.is_seen == False).all()
+def unseenEpisodes(show):
+    return session.query(Episode).filter(Episode.show_id == show.id).filter(Episode.is_seen == False).all()
 
 def makeEpisodeSeen(episode):
     session.query(Episode).filter(Episode.id == episode.id).update({"is_seen": True})
@@ -47,6 +47,11 @@ def makeEpisodeUnseen(episode):
     session.query(Episode).filter(Episode.id == episode.id).update({"is_seen": False})
     session.commit()
 
-def resetEpisodes():
-    session.query(Episode).update({"is_seen": False})
+def resetEpisodes(episodes):
+    # should not use makeEpisodeUnseen, because it would query each iteration
+    for episode in episodes:
+        session.query(Episode).filter(Episode.id == episode.id).update({"is_seen": False})
     session.commit()
+
+def getShow(show_name):
+    return session.query(TVShow).filter(TVShow.title == show_name).first()

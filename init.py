@@ -20,6 +20,4 @@ if __name__ == '__main__':
 
     name = shows[int(input())]['file_name']
 
-    print("name: " + name)
-
     initShow(name)
