@@ -10,10 +10,10 @@ from database.db import unseenEpisodes, makeEpisodeSeen, resetEpisodes, getShow
 
 
 
-def checkForReset(episodes):
+def checkForReset(episodes, show):
     total = len(episodes)
     if(total == 0):
-        resetEpisodes(episodes)
+        resetEpisodes(show)
 
 
 with open("shows/shows_list.json") as data_file:
@@ -33,7 +33,7 @@ episodes = unseenEpisodes(show)
 
 # episodes = [episode[0] for episode in episodes]
 
-checkForReset(episodes)
+checkForReset(episodes, show)
 
 # for episode in episodes:
 #     print(episode.is_seen)
@@ -49,7 +49,9 @@ while(not done):
     if(answer == 'y'):
         episodes.remove(ep)
         makeEpisodeSeen(ep)
-        checkForReset(episodes)
+        checkForReset(episodes, show)
+        if(len(episodes) == 0):#if at this point all eps were watched
+            episodes = unseenEpisodes(show)
         done = False
     elif(answer == 'n'):
         done = True

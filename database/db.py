@@ -47,10 +47,9 @@ def makeEpisodeUnseen(episode):
     session.query(Episode).filter(Episode.id == episode.id).update({"is_seen": False})
     session.commit()
 
-def resetEpisodes(episodes):
+def resetEpisodes(show):
     # should not use makeEpisodeUnseen, because it would query each iteration
-    for episode in episodes:
-        session.query(Episode).filter(Episode.id == episode.id).update({"is_seen": False})
+    session.query(Episode).filter(Episode.show == show).update({"is_seen": False})
     session.commit()
 
 def getShow(show_name):
