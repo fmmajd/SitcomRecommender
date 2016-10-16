@@ -24,13 +24,13 @@ DBSession = sessionmaker(bind = engine)
 session = DBSession()
 
 def addShow(show):
-    new_show = TVShow(show.title)
-    session.add(new_show)
+    #new_show = TVShow(show.title)
+    session.add(show)
     session.commit()
 
 def addEpisode(episode):
-    new_ep = Episode(episode.season, episode.index, episode.title,episode.show)
-    session.add(new_ep)
+    #new_ep = Episode(episode.season, episode.index, episode.title,episode.show)
+    session.add(episode)
     session.commit()
 
 def allEpisodes(show):

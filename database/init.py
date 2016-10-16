@@ -34,7 +34,10 @@ def buildEpisodesList(data):
     for season in data['seasons']:
         season_index = season['index']
         for episode in season['episodes']:
-            ep = Episode(season_index, episode['index'], episode['title'], tv_show)
+            if "alternate_title" in episode:
+                ep = Episode(season_index, episode['index'], episode['title'], tv_show, episode['alternate_title'])
+            else:
+                ep = Episode(season_index, episode['index'], episode['title'], tv_show)
             episodes.append(ep)
 
     return episodes

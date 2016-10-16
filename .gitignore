@@ -3,3 +3,4 @@
 __pycache__/
 database.db
 database/__pycache__/
+database/models/__pycache__/

@@ -12,11 +12,11 @@ if __name__ == '__main__':
     with open("shows/shows_list.json") as data_file:
         shows = json.load(data_file)
 
-    print("\nchoose a show:")
+    print("choose a show:")
     for i in range(0, len(shows)):
         print(str(i) + ": " + shows[i]['title'])
 
-    print()#spacing line
+    #print()#spacing line
 
     name = shows[int(input())]['file_name']
 

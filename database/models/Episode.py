@@ -9,6 +9,7 @@ class Episode(Base):
     __tablename__ = 'episodes'
     id = Column(Integer, primary_key=True)
     title = Column(String(250), nullable=False)
+    alternate_title = Column(String(250), nullable=True)
     index = Column(Integer)
     season = Column(Integer)
     is_seen = Column(Boolean)
@@ -16,12 +17,16 @@ class Episode(Base):
     show = relationship(TVShow)
 
 
-    def __init__(self, season, index, title, show):
+    def __init__(self, season, index, title, show, other_title = None):
         self.season = season
         self.index = index
         self.title = title
+        self.alternate_title = other_title
         self.is_seen = False
         self.show = show
 
     def __str__(self):
-        return self.show.title + "-season" + str(self.season) + " episode" + str(self.index) + ": " + self.title
+        res = self.show.title + "-season" + str(self.season) + " episode" + str(self.index) + ": " + self.title
+        if(not self.alternate_title == None):
+            res = res + ", also known as: " + self.alternate_title
+        return res
