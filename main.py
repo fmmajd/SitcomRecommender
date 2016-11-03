@@ -56,4 +56,6 @@ while(not done):
     elif(answer == 'n'):
         done = True
     else:
-        continue
+        episodes.remove(ep)
+        if(len(episodes == 0)):
+            done = True
