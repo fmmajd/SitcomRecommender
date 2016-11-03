@@ -44,7 +44,7 @@ while(not done):
     rand = random.randrange(0, len(episodes))
     ep = episodes[rand]
     out = "season" + str(ep.season) + " episode" + str(ep.index) + ": " + ep.title + "." + '\n' + "Have you seen it?(y/n)"
-    print(str(ep) + '\n' + "Have you seen it?(y/n)")
+    print(str(ep) + '\n' + "Have you seen it? or you can pass it.(y/n/p)")
     answer = input()
     if(answer == 'y'):
         episodes.remove(ep)
@@ -55,7 +55,7 @@ while(not done):
         done = False
     elif(answer == 'n'):
         done = True
-    else:
+    elif(answer == 'p'):
         episodes.remove(ep)
         if(len(episodes == 0)):
             done = True
