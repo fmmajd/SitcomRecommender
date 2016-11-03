@@ -55,3 +55,5 @@ while(not done):
         done = False
     elif(answer == 'n'):
         done = True
+    else:
+        continue
