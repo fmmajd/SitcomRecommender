@@ -57,5 +57,5 @@ while(not done):
         done = True
     elif(answer == 'p'):
         episodes.remove(ep)
-        if(len(episodes == 0)):
+        if(len(episodes) == 0):
             done = True
