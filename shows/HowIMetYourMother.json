@@ -1,0 +1,878 @@
+{
+    "title": "How I Met Your Mother",
+    "seasons": [
+        {
+            "index": 1,
+            "episodes": [
+                {
+                    "index": 1,
+                    "title": "Pilot"
+                },
+                {
+                    "index": 2,
+                    "title": "Purple Giraffe"
+                },
+                {
+                    "index": 3,
+                    "title": "Sweet Taste of Liberty"
+                },
+                {
+                    "index": 4,
+                    "title": "Return of the Shirt"
+                },
+                {
+                    "index": 5,
+                    "title": "Okay Awesome"
+                },
+                {
+                    "index": 6,
+                    "title": "Slutty Pumpkin"
+                },
+                {
+                    "index": 7,
+                    "title": "Matchmaker"
+                },
+                {
+                    "index": 8,
+                    "title": "The Duel"
+                },
+                {
+                    "index": 9,
+                    "title": "Belly Full of Turkey"
+                },
+                {
+                    "index": 10,
+                    "title": "The Pineapple Incident"
+                },
+                {
+                    "index": 11,
+                    "title": "The Limo"
+                },
+                {
+                    "index": 12,
+                    "title": "The Wedding"
+                },
+                {
+                    "index": 13,
+                    "title": "Drumroll, Please"
+                },
+                {
+                    "index": 14,
+                    "title": "Zip, Zip, Zip"
+                },
+                {
+                    "index": 15,
+                    "title": "Game Night"
+                },
+                {
+                    "index": 16,
+                    "title": "Cupcake"
+                },
+                {
+                    "index": 17,
+                    "title": "Life Among the Gorillas"
+                },
+                {
+                    "index": 18,
+                    "title": "Nothing Good Happens After 2 A.M."
+                },
+                {
+                    "index": 19,
+                    "title": "Mary the Paralegal"
+                },
+                {
+                    "index": 20,
+                    "title": "Best Prom Ever"
+                },
+                {
+                    "index": 21,
+                    "title": "Milk"
+                },
+                {
+                    "index": 22,
+                    "title": "Come On"
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "episodes": [
+                {
+                    "index": 1,
+                    "title": "Where Were We?"
+                },
+                {
+                    "index": 2,
+                    "title": "The Scorpion and the Toad"
+                },
+                {
+                    "index": 3,
+                    "title": "Brunch"
+                },
+                {
+                    "index": 4,
+                    "title": "Ted Mosby: Architect"
+                },
+                {
+                    "index": 5,
+                    "title": "World's Greatest Couple"
+                },
+                {
+                    "index": 6,
+                    "title": "Aldrin Justice"
+                },
+                {
+                    "index": 7,
+                    "title": "Swarley"
+                },
+                {
+                    "index": 8,
+                    "title": "Atlantic City"
+                },
+                {
+                    "index": 9,
+                    "title": "Slap Bet"
+                },
+                {
+                    "index": 10,
+                    "title": "Single Stamina"
+                },
+                {
+                    "index": 11,
+                    "title": "How Lily Stole Christmas"
+                },
+                {
+                    "index": 12,
+                    "title": "First Time in New York"
+                },
+                {
+                    "index": 13,
+                    "title": "Columns"
+                },
+                {
+                    "index": 14,
+                    "title": "Monday Night Football"
+                },
+                {
+                    "index": 15,
+                    "title": "Lucky Penny"
+                },
+                {
+                    "index": 16,
+                    "title": "Stuff"
+                },
+                {
+                    "index": 17,
+                    "title": "Arrivederci, Fiero"
+                },
+                {
+                    "index": 18,
+                    "title": "Moving Day"
+                },
+                {
+                    "index": 19,
+                    "title": "Bachelor Party"
+                },
+                {
+                    "index": 20,
+                    "title": "Showdown"
+                },
+                {
+                    "index": 21,
+                    "title": "Something Borrowed"
+                },
+                {
+                    "index": 22,
+                    "title": "Something Blue"
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "episodes": [
+                {
+                    "index": 1,
+                    "title": "Wait for It"
+                },
+                {
+                    "index": 2,
+                    "title": "We're Not from Here"
+                },
+                {
+                    "index": 3,
+                    "title": "Third Wheel"
+                },
+                {
+                    "index": 4,
+                    "title": "Little Boys"
+                },
+                {
+                    "index": 5,
+                    "title": "How I Met Everyone Else"
+                },
+                {
+                    "index": 6,
+                    "title": "I'm Not That Guy"
+                },
+                {
+                    "index": 7,
+                    "title": "Dowisetrepla"
+                },
+                {
+                    "index": 8,
+                    "title": "Spoiler Alert"
+                },
+                {
+                    "index": 9,
+                    "title": "Slapsgiving"
+                },
+                {
+                    "index": 10,
+                    "title": "The Yips"
+                },
+                {
+                    "index": 11,
+                    "title": "The Platinum Rule"
+                },
+                {
+                    "index": 12,
+                    "title": "No Tomorrow"
+                },
+                {
+                    "index": 13,
+                    "title": "Ten Sessions"
+                },
+                {
+                    "index": 14,
+                    "title": "The Bracket"
+                },
+                {
+                    "index": 15,
+                    "title": "The Chain of Screaming"
+                },
+                {
+                    "index": 16,
+                    "title": "Sandcastles in the Sand"
+                },
+                {
+                    "index": 17,
+                    "title": "The Goat"
+                },
+                {
+                    "index": 18,
+                    "title": "Rebound Bro"
+                },
+                {
+                    "index": 19,
+                    "title": "Everything Must Go"
+                },
+                {
+                    "index": 20,
+                    "title": "Miracles"
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "episodes": [
+                {
+                    "index": 1,
+                    "title": "Do I Know You?"
+                },
+                {
+                    "index": 2,
+                    "title": "The Best Burger in New York"
+                },
+                {
+                    "index": 3,
+                    "title": "I Heart NJ"
+                },
+                {
+                    "index": 4,
+                    "title": "Intervention"
+                },
+                {
+                    "index": 5,
+                    "title": "Shelter Island"
+                },
+                {
+                    "index": 6,
+                    "title": "Happily Ever After"
+                },
+                {
+                    "index": 7,
+                    "title": "Not a Father's Day"
+                },
+                {
+                    "index": 8,
+                    "title": "Woooo!"
+                },
+                {
+                    "index": 9,
+                    "title": "The Naked Man"
+                },
+                {
+                    "index": 10,
+                    "title": "The Fight"
+                },
+                {
+                    "index": 11,
+                    "title": "Little Minnesota"
+                },
+                {
+                    "index": 12,
+                    "title": "Benefits"
+                },
+                {
+                    "index": 13,
+                    "title": "Three Days of Snow"
+                },
+                {
+                    "index": 14,
+                    "title": "The Possimpible"
+                },
+                {
+                    "index": 15,
+                    "title": "The Stinsons"
+                },
+                {
+                    "index": 16,
+                    "title": "Sorry, Bro"
+                },
+                {
+                    "index": 17,
+                    "title": "The Front Porch"
+                },
+                {
+                    "index": 18,
+                    "title": "Old King Clancy"
+                },
+                {
+                    "index": 19,
+                    "title": "Murtaugh"
+                },
+                {
+                    "index": 20,
+                    "title": "Mosbius Designs"
+                },
+                {
+                    "index": 21,
+                    "title": "The Three Days Rule"
+                },
+                {
+                    "index": 22,
+                    "title": "Right Place, Right Time"
+                },
+                {
+                    "index": 23,
+                    "title": "As Fast as She Can"
+                },
+                {
+                    "index": 24,
+                    "title": "The Leap"
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "episodes": [
+                {
+                    "index": 1,
+                    "title": "Definitions"
+                },
+                {
+                    "index": 2,
+                    "title": "Double Date"
+                },
+                {
+                    "index": 3,
+                    "title": "Robin 101"
+                },
+                {
+                    "index": 4,
+                    "title": "The Sexless Innkeeper"
+                },
+                {
+                    "index": 5,
+                    "title": "Duel Citizenship"
+                },
+                {
+                    "index": 6,
+                    "title": "Bagpipes"
+                },
+                {
+                    "index": 7,
+                    "title": "The Rough Patch"
+                },
+                {
+                    "index": 8,
+                    "title": "The Playbook"
+                },
+                {
+                    "index": 9,
+                    "title": "Slapsgiving 2: Revenge of the Slap"
+                },
+                {
+                    "index": 10,
+                    "title": "The Window"
+                },
+                {
+                    "index": 11,
+                    "title": "Last Cigarette Ever"
+                },
+                {
+                    "index": 12,
+                    "title": "Girls Versus Suits"
+                },
+                {
+                    "index": 13,
+                    "title": "Jenkins"
+                },
+                {
+                    "index": 14,
+                    "title": "Perfect Week"
+                },
+                {
+                    "index": 15,
+                    "title": "Rabbit or Duck"
+                },
+                {
+                    "index": 16,
+                    "title": "Hooked"
+                },
+                {
+                    "index": 17,
+                    "title": "Of Course"
+                },
+                {
+                    "index": 18,
+                    "title": "Say Cheese"
+                },
+                {
+                    "index": 19,
+                    "title": "Zoo or False"
+                },
+                {
+                    "index": 20,
+                    "title": "Home Wreckers"
+                },
+                {
+                    "index": 21,
+                    "title": "Twin Beds"
+                },
+                {
+                    "index": 22,
+                    "title": "Robots Versus Wrestlers"
+                },
+                {
+                    "index": 23,
+                    "title": "The Wedding Bride"
+                },
+                {
+                    "index": 24,
+                    "title": "Doppelgangers"
+                }
+            ]
+        },
+        {
+            "index": 6,
+            "episodes": [
+                {
+                    "index": 1,
+                    "title": "Big Days"
+                },
+                {
+                    "index": 2,
+                    "title": "Cleaning House"
+                },
+                {
+                    "index": 3,
+                    "title": "Unfinished"
+                },
+                {
+                    "index": 4,
+                    "title": "Subway Wars"
+                },
+                {
+                    "index": 5,
+                    "title": "Architect of Destruction"
+                },
+                {
+                    "index": 6,
+                    "title": "Baby Talk"
+                },
+                {
+                    "index": 7,
+                    "title": "Canning Randy"
+                },
+                {
+                    "index": 8,
+                    "title": "Natural History"
+                },
+                {
+                    "index": 9,
+                    "title": "Glitter"
+                },
+                {
+                    "index": 10,
+                    "title": "Blitzgiving"
+                },
+                {
+                    "index": 11,
+                    "title": "The Mermaid Theory"
+                },
+                {
+                    "index": 12,
+                    "title": "False Positive"
+                },
+                {
+                    "index": 13,
+                    "title": "Bad News"
+                },
+                {
+                    "index": 14,
+                    "title": "Last Words"
+                },
+                {
+                    "index": 15,
+                    "title": "Oh Honey"
+                },
+                {
+                    "index": 16,
+                    "title": "Desperation Day"
+                },
+                {
+                    "index": 17,
+                    "title": "Garbage Island"
+                },
+                {
+                    "index": 18,
+                    "title": "A Change of Heart"
+                },
+                {
+                    "index": 19,
+                    "title": "Legendaddy"
+                },
+                {
+                    "index": 20,
+                    "title": "The Exploding Meatball Sub"
+                },
+                {
+                    "index": 21,
+                    "title": "Hopeless"
+                },
+                {
+                    "index": 22,
+                    "title": "The Perfect Cocktail"
+                },
+                {
+                    "index": 23,
+                    "title": "Landmarks"
+                },
+                {
+                    "index": 24,
+                    "title": "Challenge Accepted"
+                }
+            ]
+        },
+        {
+            "index": 7,
+            "episodes": [
+                {
+                    "index": 1,
+                    "title": "The Best Man"
+                },
+                {
+                    "index": 2,
+                    "title": "The Naked Truth"
+                },
+                {
+                    "index": 3,
+                    "title": "Ducky Tie"
+                },
+                {
+                    "index": 4,
+                    "title": "The Stinson Missile Crisis"
+                },
+                {
+                    "index": 5,
+                    "title": "Field Trip"
+                },
+                {
+                    "index": 6,
+                    "title": "Mystery vs. History"
+                },
+                {
+                    "index": 7,
+                    "title": "Noretta"
+                },
+                {
+                    "index": 8,
+                    "title": "The Slutty Pumpkin Returns"
+                },
+                {
+                    "index": 9,
+                    "title": "Disaster Averted"
+                },
+                {
+                    "index": 10,
+                    "title": "Tick Tick Tick…"
+                },
+                {
+                    "index": 11,
+                    "title": "The Rebound Girl"
+                },
+                {
+                    "index": 12,
+                    "title": "Symphony of Illumination"
+                },
+                {
+                    "index": 13,
+                    "title": "Tailgate"
+                },
+                {
+                    "index": 14,
+                    "title": "46 Minutes"
+                },
+                {
+                    "index": 15,
+                    "title": "The Burning Beekeeper"
+                },
+                {
+                    "index": 16,
+                    "title": "The Drunk Train"
+                },
+                {
+                    "index": 17,
+                    "title": "No Pressure"
+                },
+                {
+                    "index": 18,
+                    "title": "Karma"
+                },
+                {
+                    "index": 19,
+                    "title": "The Broath"
+                },
+                {
+                    "index": 20,
+                    "title": "Trilogy Time"
+                },
+                {
+                    "index": 21,
+                    "title": "Now We're Even"
+                },
+                {
+                    "index": 22,
+                    "title": "Good Crazy"
+                },
+                {
+                    "index": 23,
+                    "title": "The Magician's Code, Part 1"
+                },
+                {
+                    "index": 24,
+                    "title": "The Magician's Code, Part 2"
+                }
+            ]
+        },
+        {
+            "index": 8,
+            "episodes": [
+                {
+                    "index": 1,
+                    "title": "Farhampton"
+                },
+                {
+                    "index": 2,
+                    "title": "The Pre-Nup"
+                },
+                {
+                    "index": 3,
+                    "title": "Nannies"
+                },
+                {
+                    "index": 4,
+                    "title": "Who Wants to Be a Godparent?"
+                },
+                {
+                    "index": 5,
+                    "title": "The Autumn of Break-Ups"
+                },
+                {
+                    "index": 6,
+                    "title": "Splitsville"
+                },
+                {
+                    "index": 7,
+                    "title": "The Stamp Tramp"
+                },
+                {
+                    "index": 8,
+                    "title": "Twelve Horny Women"
+                },
+                {
+                    "index": 9,
+                    "title": "Lobster Crawl"
+                },
+                {
+                    "index": 10,
+                    "title": "The Over-Correction"
+                },
+                {
+                    "index": 11,
+                    "title": "The Final Page, Part 1"
+                },
+                {
+                    "index": 12,
+                    "title": "The Final Page, Part 2"
+                },
+                {
+                    "index": 13,
+                    "title": "Band or DJ?"
+                },
+                {
+                    "index": 14,
+                    "title": "Ring Up!"
+                },
+                {
+                    "index": 15,
+                    "title": "P.S. I Love You"
+                },
+                {
+                    "index": 16,
+                    "title": "Bad Crazy"
+                },
+                {
+                    "index": 17,
+                    "title": "The Ashtray"
+                },
+                {
+                    "index": 18,
+                    "title": "Weekend at Barney's"
+                },
+                {
+                    "index": 19,
+                    "title": "The Fortress"
+                },
+                {
+                    "index": 20,
+                    "title": "The Time Travelers"
+                },
+                {
+                    "index": 21,
+                    "title": "Romeward Bound"
+                },
+                {
+                    "index": 22,
+                    "title": "The Bro Mitzvah"
+                },
+                {
+                    "index": 23,
+                    "title": "Something Old"
+                },
+                {
+                    "index": 24,
+                    "title": "Something New"
+                }
+            ]
+        },
+        {
+            "index": 9,
+            "episodes": [
+                {
+                    "index": 1,
+                    "title": "The Locket"
+                },
+                {
+                    "index": 2,
+                    "title": "Coming Back"
+                },
+                {
+                    "index": 3,
+                    "title": "Last Time in New York"
+                },
+                {
+                    "index": 4,
+                    "title": "The Broken Code"
+                },
+                {
+                    "index": 5,
+                    "title": "The Poker Game"
+                },
+                {
+                    "index": 6,
+                    "title": "Knight Vision"
+                },
+                {
+                    "index": 7,
+                    "title": "No Questions Asked"
+                },
+                {
+                    "index": 8,
+                    "title": "The Lighthouse"
+                },
+                {
+                    "index": 9,
+                    "title": "Platonish"
+                },
+                {
+                    "index": 10,
+                    "title": "Mom and Dad"
+                },
+                {
+                    "index": 11,
+                    "title": "Bedtime Stories"
+                },
+                {
+                    "index": 12,
+                    "title": "The Rehearsal Dinner"
+                },
+                {
+                    "index": 13,
+                    "title": "Bass Player Wanted"
+                },
+                {
+                    "index": 14,
+                    "title": "Slapsgiving 3: Slappointment in Slapmarra"
+                },
+                {
+                    "index": 15,
+                    "title": "Unpause"
+                },
+                {
+                    "index": 16,
+                    "title": "How Your Mother Met Me"
+                },
+                {
+                    "index": 17,
+                    "title": "Sunrise"
+                },
+                {
+                    "index": 18,
+                    "title": "Rally"
+                },
+                {
+                    "index": 19,
+                    "title": "Vesuvius"
+                },
+                {
+                    "index": 20,
+                    "title": "Daisy"
+                },
+                {
+                    "index": 21,
+                    "title": "Gary Blauman"
+                },
+                {
+                    "index": 22,
+                    "title": "The End of the Aisle"
+                },
+                {
+                    "index": 23,
+                    "title": "Last Forever"
+                }
+            ]
+        }
+    ]
+}
