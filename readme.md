@@ -16,6 +16,7 @@ currently, these shows are included:
 
 - Friends
 - Two and a Half Men
+- How I Met Your Mother
 
 feel free to add json file of any show you want, or you can send your requests to me
 
