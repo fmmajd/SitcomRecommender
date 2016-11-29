@@ -1,0 +1,704 @@
+{
+    "title": "Modern Family",
+    "seasons": [
+        {
+            "index": 1,
+            "episodes": [
+                {
+                    "index": 1,
+                    "title": "Pilot"
+                },
+                {
+                    "index": 2,
+                    "title": "The Bicycle Thief"	
+                },
+                {
+                    "index": 3,
+                    "title": "Come Fly with Me"
+                },
+                {
+                    "index": 4,
+                    "title": "The Incident"
+                },
+                {
+                    "index": 5,
+                    "title": "Coal Digger"
+                },
+                {
+                    "index": 6,
+                    "title": "Run for Your Wife"
+                },
+                {
+                    "index": 7,
+                    "title": "En Garde"
+                },
+                {
+                    "index": 8,
+                    "title": "Great Expectations"
+                },
+                {
+                    "index": 9,
+                    "title": "Fizbo"
+                },
+                {
+                    "index": 10,
+                    "title": "Undeck the Halls"
+                },
+                {
+                    "index": 11,
+                    "title": "Up All Night"
+                },
+                {
+                    "index": 12,
+                    "title": "Not in My House"
+                },
+                {
+                    "index": 13,
+                    "title": "Fifteen Percent"
+                },
+                {
+                    "index": 14,
+                    "title": "Moon Landing"
+                },
+                {
+                    "index": 15,
+                    "title": "My Funky Valentine"
+                },
+                {
+                    "index": 16,
+                    "title": "Fears"
+                },
+                {
+                    "index": 17,
+                    "title": "Truth Be Told"
+                },
+                {
+                    "index": 18,
+                    "title": "Starry Night"
+                },
+                {
+                    "index": 19,
+                    "title": "Game Changer"
+                },
+                {
+                    "index": 20,
+                    "title": "Benched"
+                },
+                {
+                    "index": 21,
+                    "title": "Travels with Scout"
+                },
+                {
+                    "index": 22,
+                    "title": "Airport 2010"
+                },
+                {
+                    "index": 23,
+                    "title": "Hawaii"
+                },
+                {
+                    "index": 24,
+                    "title": "Family Portrait"
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "episodes": [
+                {
+                    "index": 1,
+                    "title": "The Old Wagon"
+                },
+                {
+                    "index": 2,
+                    "title": "The Kiss"	
+                },
+                {
+                    "index": 3,
+                    "title": "Earthquake"
+                },
+                {
+                    "index": 4,
+                    "title": "Strangers on a Treadmill"
+                },
+                {
+                    "index": 5,
+                    "title": "Unplugged"
+                },
+                {
+                    "index": 6,
+                    "title": "Halloween"
+                },
+                {
+                    "index": 7,
+                    "title": "Chirp"
+                },
+                {
+                    "index": 8,
+                    "title": "Manny Get Your Gun"
+                },
+                {
+                    "index": 9,
+                    "title": "Mother Tucker"
+                },
+                {
+                    "index": 10,
+                    "title": "Dance Dance Revelation"
+                },
+                {
+                    "index": 11,
+                    "title": "Slow Down Your Neighbors"
+                },
+                {
+                    "index": 12,
+                    "title": "Our Children, Ourselves"
+                },
+                {
+                    "index": 13,
+                    "title": "Caught in the Act"
+                },
+                {
+                    "index": 14,
+                    "title": "Bixby's Back"
+                },
+                {
+                    "index": 15,
+                    "title": "Princess Party"
+                },
+                {
+                    "index": 16,
+                    "title": "Regrets Only"
+                },
+                {
+                    "index": 17,
+                    "title": "Two Monkeys and a Panda"
+                },
+                {
+                    "index": 18,
+                    "title": "Boys' Night"
+                },
+                {
+                    "index": 19,
+                    "title": "The Musical Man"
+                },
+                {
+                    "index": 20,
+                    "title": "Someone to Watch Over Lily"
+                },
+                {
+                    "index": 21,
+                    "title": "Mother's Day"
+                },
+                {
+                    "index": 22,
+                    "title": "Good Cop Bad Dog"
+                },
+                {
+                    "index": 23,
+                    "title": "See You Next Fall"
+                },
+                {
+                    "index": 24,
+                    "title": "The One That Got Away"
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "episodes": [
+                {
+                    "index": 1,
+                    "title": "Dude Ranch"
+                },
+                {
+                    "index": 2,
+                    "title": "When Good Kids Go Bad"	
+                },
+                {
+                    "index": 3,
+                    "title": "Phil on Wire"
+                },
+                {
+                    "index": 4,
+                    "title": "Door to Door"
+                },
+                {
+                    "index": 5,
+                    "title": "Hit and Run"
+                },
+                {
+                    "index": 6,
+                    "title": "Go Bullfrogs!"
+                },
+                {
+                    "index": 7,
+                    "title": "Treehouse"
+                },
+                {
+                    "index": 8,
+                    "title": "After the Fire"
+                },
+                {
+                    "index": 9,
+                    "title": "Punkin Chunkin"
+                },
+                {
+                    "index": 10,
+                    "title": "Express Christmas"
+                },
+                {
+                    "index": 11,
+                    "title": "Lifetime Supply"
+                },
+                {
+                    "index": 12,
+                    "title": "Egg Drop"
+                },
+                {
+                    "index": 13,
+                    "title": "Little Bo Bleep"
+                },
+                {
+                    "index": 14,
+                    "title": "Me? Jealous?"
+                },
+                {
+                    "index": 15,
+                    "title": "Aunt Mommy"
+                },
+                {
+                    "index": 16,
+                    "title": "Virgin Territory"
+                },
+                {
+                    "index": 17,
+                    "title": "Leap Day"
+                },
+                {
+                    "index": 18,
+                    "title": "Send Out the Clowns"
+                },
+                {
+                    "index": 19,
+                    "title": "Election Day"
+                },
+                {
+                    "index": 20,
+                    "title": "The Last Walt"
+                },
+                {
+                    "index": 21,
+                    "title": "Planes, Trains and Cars"
+                },
+                {
+                    "index": 22,
+                    "title": "Disneyland"
+                },
+                {
+                    "index": 23,
+                    "title": "Tableau Vivant"
+                },
+                {
+                    "index": 24,
+                    "title": "Baby on Board"
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "episodes": [
+                {
+                    "index": 1,
+                    "title": "Bringing Up Baby"
+                },
+                {
+                    "index": 2,
+                    "title": "Schooled"	
+                },
+                {
+                    "index": 3,
+                    "title": "Snip"
+                },
+                {
+                    "index": 4,
+                    "title": "The Butler's Escape"
+                },
+                {
+                    "index": 5,
+                    "title": "Open House of Horrors"
+                },
+                {
+                    "index": 6,
+                    "title": "Yard Sale"
+                },
+                {
+                    "index": 7,
+                    "title": "Arrested"
+                },
+                {
+                    "index": 8,
+                    "title": "Mistery Date"
+                },
+                {
+                    "index": 9,
+                    "title": "When a Tree Falls"
+                },
+                {
+                    "index": 10,
+                    "title": "Diamond in the Rough"
+                },
+                {
+                    "index": 11,
+                    "title": "New Year's Eve"
+                },
+                {
+                    "index": 12,
+                    "title": "Party Crasher"
+                },
+                {
+                    "index": 13,
+                    "title": "Fulgencio"
+                },
+                {
+                    "index": 14,
+                    "title": "A Slight at the Opera"
+                },
+                {
+                    "index": 15,
+                    "title": "Heart Broken"
+                },
+                {
+                    "index": 16,
+                    "title": "Bad Hair Day"
+                },
+                {
+                    "index": 17,
+                    "title": "Best Men"
+                },
+                {
+                    "index": 18,
+                    "title": "The Wow Factor"
+                },
+                {
+                    "index": 19,
+                    "title": "The Future Dunphys"
+                },
+                {
+                    "index": 20,
+                    "title": "Flip Flop"
+                },
+                {
+                    "index": 21,
+                    "title": "Career Day"
+                },
+                {
+                    "index": 22,
+                    "title": "My Hero"
+                },
+                {
+                    "index": 23,
+                    "title": "Games People Play"
+                },
+                {
+                    "index": 24,
+                    "title": "Goodnight Gracie"
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "episodes": [
+                {
+                    "index": 1,
+                    "title": "Suddenly, Last Summer"
+                },
+                {
+                    "index": 2,
+                    "title": "First Days"	
+                },
+                {
+                    "index": 3,
+                    "title": "Larry's Wife"
+                },
+                {
+                    "index": 4,
+                    "title": "Farm Strong"
+                },
+                {
+                    "index": 5,
+                    "title": "The Late Show"
+                },
+                {
+                    "index": 6,
+                    "title": "The Help"
+                },
+                {
+                    "index": 7,
+                    "title": "A Fair to Remember"
+                },
+                {
+                    "index": 8,
+                    "title": "ClosetCon '13"
+                },
+                {
+                    "index": 9,
+                    "title": "The Big Game"
+                },
+                {
+                    "index": 10,
+                    "title": "The Old Man & the Tree"
+                },
+                {
+                    "index": 11,
+                    "title": "And One to Grow On"
+                },
+                {
+                    "index": 12,
+                    "title": "Under Pressure"
+                },
+                {
+                    "index": 13,
+                    "title": "Three Dinners"
+                },
+                {
+                    "index": 14,
+                    "title": "iSpy"
+                },
+                {
+                    "index": 15,
+                    "title": "The Feud"
+                },
+                {
+                    "index": 16,
+                    "title": "Spring-a-Ding-Fling"
+                },
+                {
+                    "index": 17,
+                    "title": "Other People's Children"
+                },
+                {
+                    "index": 18,
+                    "title": "Las Vegas"
+                },
+                {
+                    "index": 19,
+                    "title": "A Hard Jay's Night"
+                },
+                {
+                    "index": 20,
+                    "title": "Australia"
+                },
+                {
+                    "index": 21,
+                    "title": "Sleeper"
+                },
+                {
+                    "index": 22,
+                    "title": "Message Received"
+                },
+                {
+                    "index": 23,
+                    "title": "The Wedding (Part 1)"
+                },
+                {
+                    "index": 24,
+                    "title":"The Wedding (Part 2)"
+                }
+            ]
+        },
+        {
+            "index": 6,
+            "episodes": [
+                {
+                    "index": 1,
+                    "title": "The Long Honeymoon"
+                },
+                {
+                    "index": 2,
+                    "title": "Do Not Push"	
+                },
+                {
+                    "index": 3,
+                    "title": "The Cold"
+                },
+                {
+                    "index": 4,
+                    "title": "Marco Polo"
+                },
+                {
+                    "index": 5,
+                    "title": "Won't You Be Our Neighbor"
+                },
+                {
+                    "index": 6,
+                    "title": "Halloween 3: AwesomeLand"
+                },
+                {
+                    "index": 7,
+                    "title": "Queer Eyes, Full Hearts"
+                },
+                {
+                    "index": 8,
+                    "title": "Three Turkeys"
+                },
+                {
+                    "index": 9,
+                    "title": "Strangers in the Night"
+                },
+                {
+                    "index": 10,
+                    "title": "Haley's 21st Birthday"
+                },
+                {
+                    "index": 11,
+                    "title": "The Day We Almost Died"
+                },
+                {
+                    "index": 12,
+                    "title": "The Big Guns"
+                },
+                {
+                    "index": 13,
+                    "title": "Rash Decisions"
+                },
+                {
+                    "index": 14,
+                    "title": "Valentine's Day 4: Twisted Sister"
+                },
+                {
+                    "index": 15,
+                    "title": "Fight or Flight"
+                },
+                {
+                    "index": 16,
+                    "title": "Connection Lost"
+                },
+                {
+                    "index": 17,
+                    "title": "Closet? You'll Love It!"
+                },
+                {
+                    "index": 18,
+                    "title": "Spring Break"
+                },
+                {
+                    "index": 19,
+                    "title": "Grill, Interrupted"
+                },
+                {
+                    "index": 20,
+                    "title": "Knock 'Em Down"
+                },
+                {
+                    "index": 21,
+                    "title": "Integrity"
+                },
+                {
+                    "index": 22,
+                    "title": "Patriot Games"
+                },
+                {
+                    "index": 23,
+                    "title": "Crying Out Loud"
+                },
+                {
+                    "index": 24,
+                    "title": "American Skyper"
+                }
+            ]
+        },
+        {
+            "index": 7,
+            "episodes": [
+                {
+                    "index": 1,
+                    "title": "Summer Lovin'"
+                },
+                {
+                    "index": 2,
+                    "title": "The Day Alex Left for College"	
+                },
+                {
+                    "index": 3,
+                    "title": "The Closet Case"
+                },
+                {
+                    "index": 4,
+                    "title": "She Crazy"
+                },
+                {
+                    "index": 5,
+                    "title": "The Verdict"
+                },
+                {
+                    "index": 6,
+                    "title": "The More You Ignore Me"
+                },
+                {
+                    "index": 7,
+                    "title": "Phil's Sexy, Sexy House"
+                },
+                {
+                    "index": 8,
+                    "title": "Clean Out Your Junk Drawer"
+                },
+                {
+                    "index": 9,
+                    "title": "White Christmas"
+                },
+                {
+                    "index": 10,
+                    "title": "Playdates"
+                },
+                {
+                    "index": 11,
+                    "title": "Spread Your Wings"
+                },
+                {
+                    "index": 12,
+                    "title": "Clean for a Day"
+                },
+                {
+                    "index": 13,
+                    "title": "Thunk in the Trunk"
+                },
+                {
+                    "index": 14,
+                    "title": "The Storm"
+                },
+                {
+                    "index": 15,
+                    "title": "I Don't Know How She Does It"
+                },
+                {
+                    "index": 16,
+                    "title": "The Cover-Up"
+                },
+                {
+                    "index": 17,
+                    "title": "Express Yourself"
+                },
+                {
+                    "index": 18,
+                    "title": "The Party"
+                },
+                {
+                    "index": 19,
+                    "title": "Man Shouldn't Lie"
+                },
+                {
+                    "index": 20,
+                    "title": "Promposal"
+                },
+                {
+                    "index": 21,
+                    "title": "Crazy Train"
+                },
+                {
+                    "index": 22,
+                    "title": "Double Click"
+                }
+            ]
+        }
+    ]
+}
